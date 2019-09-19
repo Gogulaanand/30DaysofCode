@@ -6,3 +6,8 @@
   <li>learnt basic string and array manipulation in javascript using slice, splice, sort functions</li>
 </ul>  
 <h4>Day2:</h4>
+<ul>
+  <li>Started with object oriented programming in javascript. learnt about objects, properties, constructor, prototype, supertype</li>
+  <li>learnt about the MVC structure in ruby on rails</li>
+</ul>
+  
