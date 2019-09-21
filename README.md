@@ -18,6 +18,6 @@
 </ul>
 <h4>Day4:</h4>
 <ul>
-  <li></li>
-  <li></li>
+  <li>Started with functional programming in Javascript</li>
+  <li>Learnt about map, filter and reduce functions</li>
 </ul>
