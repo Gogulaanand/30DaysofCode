@@ -26,3 +26,8 @@
   <li>Continued with the functional programming section in freecodecamp</li>
   <li>learnt about the principles, and ethics to follow for a neat code and also the advantages of following the principles of functional programming it by spending quite some time debugging a code that didnt follow the same. Phew!! :)</li>
 </ul>
+<h4>Day6:</h4>
+<ul>
+  <li></li>
+  <li></li>
+</ul>
