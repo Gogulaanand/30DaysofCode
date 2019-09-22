@@ -21,3 +21,8 @@
   <li>Started with functional programming in Javascript</li>
   <li>Learnt about map, filter and reduce functions</li>
 </ul>
+<h4>Day5:</h4>
+<ul>
+  <li>Continued with the functional programming section in freecodecamp</li>
+  <li>learnt about the principles, and ethics to follow for a neat code and also the advantages of following the principles of functional programming it by spending quite some time debugging a code that didnt follow the same. Phew!! :)</li>
+</ul>
