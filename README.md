@@ -20,6 +20,7 @@
 <ul>
   <li>Started with functional programming in Javascript</li>
   <li>Learnt about map, filter and reduce functions</li>
+  <li>Attended the Google devfest 2019 conducted by GDG Chennai</li>
 </ul>
 <h4>Day5:</h4>
 <ul>
