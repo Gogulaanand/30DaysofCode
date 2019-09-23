@@ -14,7 +14,7 @@
 <ul>
   <li>Completed object oriented programming challenges in freecodecamp</li>
   <li>Learnt about inheritance in objects, subtype, overriding inherited methods, mixin, IIFE(Immediately Invoked Function Expression) and using it as a module.</li>
-  <li>Built a basic hello world root(slash) landing page in rails</li>
+  <li>Built a basic hello world root landing page in rails</li>
 </ul>
 <h4>Day4:</h4>
 <ul>
@@ -29,6 +29,5 @@
 </ul>
 <h4>Day6:</h4>
 <ul>
-  <li></li>
-  <li></li>
+  <li>Learnt about filter, map and reduce functions a bit more and applied the same to arrays and prototypes</li>
 </ul>
