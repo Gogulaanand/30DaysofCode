@@ -31,3 +31,8 @@
 <ul>
   <li>Learnt about filter, map and reduce functions a bit more and applied the same to arrays and prototypes</li>
 </ul>
+<h4>Day7:</h4>
+<ul>
+  <li>Learnt about slice, every, some, sort, concat functions and applied the same to arrays and prototypes</li>
+  <li>Completed the intro computer vision section in udacity's computer vision nanodegree</li> 
+</ul>
