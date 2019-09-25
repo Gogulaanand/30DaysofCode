@@ -36,3 +36,8 @@
   <li>Learnt about slice, every, some, sort, concat functions and applied the same to arrays and prototypes</li>
   <li>Completed the intro computer vision section in udacity's computer vision nanodegree</li> 
 </ul>
+<h4>Day8:</h4>
+<ul>
+  <li>Completed functional programming challenges in freecodecamp</li>
+  <li>Started the "Image representation and classification" lesson in computer vision Nanodegree. learnt about cv2 library and some of its its basic functions, pixel representation of images, manipulating pixels to produce desired image(aka processing :)</li>
+</ul>
