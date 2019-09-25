@@ -1,5 +1,5 @@
 
-/*
+
 
 Notes section:
 
@@ -16,5 +16,9 @@ Principles of functional prog:
     - declare funtion arguments and pass them when used to avoid confusion later on incase global avr are being accessed
     - do ot alter global var, use local ones
 
-*/
+sort function:
+    - (a-b) for ascending
+    - (b-a) for descending
+    - (a>b) for alpha ascending
+    - (a<b) for alpha descending
 
