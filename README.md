@@ -41,3 +41,9 @@
   <li>Completed functional programming challenges in freecodecamp</li>
   <li>Started the "Image representation and classification" lesson in computer vision Nanodegree. learnt about cv2 library and some of its its basic functions, pixel representation of images, manipulating pixels to produce desired image(aka processing :)</li>
 </ul>
+<h4>Day9:</h4>
+<ul>
+  <li>Started intermediate algorithm scripting in java script by freecodecamp</li>
+  <li>learnt to use cv2 library to isolate objects in images using pixel threshold values and combine separate images into one</li>
+</ul>
+  
