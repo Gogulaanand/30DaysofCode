@@ -46,4 +46,9 @@
   <li>Started intermediate algorithm scripting in java script by freecodecamp</li>
   <li>learnt to use cv2 library to isolate objects in images using pixel threshold values and combine separate images into one</li>
 </ul>
+<h4>Day10:</h4>
+<ul>
+  <li>continued with intermediate algorithm scripting in java script by freecodecamp</li>
+  <li>learnt to use hsv to identify and isolate objects even in varying lighting conditions based on color thresholds </li>
+</ul>
   
