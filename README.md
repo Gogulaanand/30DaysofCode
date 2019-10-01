@@ -51,4 +51,9 @@
   <li>continued with intermediate algorithm scripting in java script by freecodecamp</li>
   <li>learnt to use hsv to identify and isolate objects even in varying lighting conditions based on color thresholds </li>
 </ul>
+<h4>Day11:</h4>
+<ul>
+  <li>learnt about feature extraction in images and image preprocessing methods. Working on a day and night image classifier</li>
+  <li>completed intermediate algorithm scripting in Javascript by freecodecamp</li>
+</ul>
   
