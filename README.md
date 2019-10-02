@@ -56,4 +56,9 @@
   <li>learnt about feature extraction in images and image preprocessing methods. Working on a day and night image classifier</li>
   <li>completed intermediate algorithm scripting in Javascript by freecodecamp</li>
 </ul>
+<h4>Day12:</h4>
+<ul>
+  <li>completed the day night image classifier in the CV nanodegree by udacity</li>
+  <li>learnt about filters, frequency in images</li>
+</ul>
   
