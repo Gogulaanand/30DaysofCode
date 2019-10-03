@@ -61,4 +61,8 @@
   <li>completed the day night image classifier in the CV nanodegree by udacity</li>
   <li>learnt about filters, frequency in images</li>
 </ul>
+<h4>Day13:</h4>
+<ul>
+  <li>Built user data model to handle microposts using scaffold generator in rails. Learnt about the REST architecture</li>
+</ul>
   
