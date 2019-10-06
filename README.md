@@ -65,4 +65,9 @@
 <ul>
   <li>Built user data model to handle microposts using scaffold generator in rails. Learnt about the REST architecture</li>
 </ul>
+<h4>Day14 (delayed update):</h4>
+<ul>
+  <li>Built the microposts model and linked the user resource and the micropost resource. Learnt about the disadvantages of scaffold generated code and the usefulness of the rest architecture while developing RoR applications like the identical code structure</li>
+</ul>
+
   
