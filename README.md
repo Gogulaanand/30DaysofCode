@@ -78,6 +78,12 @@
   </ul>
   </li>
 </ul>
+<h4>Day16 :</h4>
+<ul>
+  <li>Learnt about canny edge detector, hough transform of images, haar cascade filters, and used a harr cascade classifier to identify faces in an image containing multiple peoples</li>
+</ul>
+
+
 
 
   
