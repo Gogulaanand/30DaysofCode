@@ -82,6 +82,10 @@
 <ul>
   <li>Learnt about canny edge detector, hough transform of images, haar cascade filters, and used a harr cascade classifier to identify faces in an image containing multiple peoples</li>
 </ul>
+<h4>Day16 :</h4>
+<ul>
+  <li>Learnt about feature extraction from images, bias in algorithms, (corner, edge, blob) features, image segmentation and use contour to plot boundaries of objects </li>
+</ul>
 
 
 
