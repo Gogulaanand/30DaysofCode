@@ -95,6 +95,7 @@
 <ul>
   <li>Did a rough overall run through of ruby's class, array, hash, symbols, strings, modules, instance variables and inheritance</li>
   <li>Learnt about k-means clustering and used the same for image segementation of images, and looked at tuning of the hyper parameters and the its effect on the segmented image</li>
+  <li>learnt about orb algorithm used for feature detection. Notes of Udacity computer vision Nanodegree https://docs.google.com/document/d/1VhBCqAmoLJRB1TdjXBXg-FVi5cs65Qx0ome8pJae9K4/edit?usp=sharing </li> 
 </ul>
 
 
