@@ -91,6 +91,11 @@
   <li>Learnt about views, actions, embedded ruby in rails, helper functions, red green refactor cycle in development</li>
   <li>built static pages for the twitter rails app and also wrote testcases following the TDD methodology</li>
 </ul>
+<h4>Day19 :</h4>
+<ul>
+  <li>Did a rough overall run through of ruby's class, array, hash, symbols, strings, modules, instance variables and inheritance</li>
+  <li>Learnt about k-means clustering and used the same for image segementation of images, and looked at tuning of the hyper parameters and the its effect on the segmented image</li>
+</ul>
 
 
 
