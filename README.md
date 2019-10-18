@@ -1,5 +1,7 @@
 # 100DaysofCode
 #100DaysofCode challenge updates in github repo's readme
+<p> Twitter app repo is maintained in bitbucket. https://bitbucket.org/RGog/twitter-app/src/master/</p>
+<p> Notes of Udacity computer vision Nanodegree https://docs.google.com/document/d/1VhBCqAmoLJRB1TdjXBXg-FVi5cs65Qx0ome8pJae9K4/edit?usp=sharing </li>
 <h4>Day1:</h4>
 <ul>
   <li>Completed Basic Algorithm scripting in "Javascript Algorithms And Data Structures Certification" by www.freecodecamp.com</li>
@@ -95,8 +97,7 @@
 <ul>
   <li>Did a rough overall run through of ruby's class, array, hash, symbols, strings, modules, instance variables and inheritance</li>
   <li>Learnt about k-means clustering and used the same for image segementation of images, and looked at tuning of the hyper parameters and the its effect on the segmented image</li>
-  <li>learnt about orb algorithm used for feature detection. Notes of Udacity computer vision Nanodegree https://docs.google.com/document/d/1VhBCqAmoLJRB1TdjXBXg-FVi5cs65Qx0ome8pJae9K4/edit?usp=sharing </li> 
-  <li> Twitter app repo is maintained in bitbucket. https://bitbucket.org/RGog/twitter-app/src/master/ </li>
+  <li>learnt about orb algorithm used for feature detection.</li> 
 </ul>
 
 
