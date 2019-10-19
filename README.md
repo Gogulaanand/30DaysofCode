@@ -97,8 +97,15 @@
 <ul>
   <li>Did a rough overall run through of ruby's class, array, hash, symbols, strings, modules, instance variables and inheritance</li>
   <li>Learnt about k-means clustering and used the same for image segementation of images, and looked at tuning of the hyper parameters and the its effect on the segmented image</li>
-  <li>learnt about orb algorithm used for feature detection.</li> 
+  <li>learnt about orb algorithm used for object detection.</li> 
 </ul>
+<h4>Day20 :</h4>
+<ul>
+  <li>worked through the implementation of the orb algorithm in cv2 for object detection</li>
+  <li>Learnt about HOG algorithm, another object detection algorithm that uses histogram plots to represent the features identify in images</li>
+  <li>Did some layout changes to the twitter app and added updated the site navigation page</li>
+</ul>
+
 
 
 
