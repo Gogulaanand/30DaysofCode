@@ -105,6 +105,10 @@
   <li>Learnt about HOG algorithm, another object detection algorithm that uses histogram plots to represent the features identify in images</li>
   <li>Did some layout changes to the twitter app and updated the site navigation page</li>
 </ul>
+<h4>Day21 :</h4>
+<ul>
+  <li>Learnt the basics of convolutional nueral networks( convolutional layers, filters, pooling layers, activation functions)</li>
+</ul>
 
 
 
