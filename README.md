@@ -109,6 +109,10 @@
 <ul>
   <li>Learnt the basics of convolutional nueral networks( convolutional layers, filters, pooling layers, activation functions)</li>
 </ul>
+<h4>Day22 :</h4>
+<ul>
+  <li>Built and trained a CNN classifier to classify the fashion mnist dataset</li>
+</ul>
 
 
 
