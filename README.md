@@ -113,6 +113,11 @@
 <ul>
   <li>Built and trained a CNN classifier to classify the fashion mnist dataset</li>
 </ul>
+<h4>Day23 :</h4>
+<ul>
+  <li>Read an extensive article on CNNs (http://cs231n.github.io/convolutional-networks/) and also learnt about dropout</li>
+</ul>
+
 
 
 
