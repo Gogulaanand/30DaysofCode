@@ -117,7 +117,14 @@
 <ul>
   <li>Read an extensive article on CNNs (http://cs231n.github.io/convolutional-networks/) and also learnt about dropout</li>
 </ul>
-
+<h4>Day24 (late update) :</h4>
+<ul>
+  <li>had my first experience into devops. learnt about netstat, haproxy, elb, api routing and throttling</li>
+</ul>
+<h4>Day25 :</h4>
+<ul>
+  <li>learnt how to add css into rails by using the bootstrap sass gem. (https://bitbucket.org/RGog/twitter-app/commits/6c1dac76e40137453a067ee061298d4428d8dd48) </li>
+</ul>
 
 
 
