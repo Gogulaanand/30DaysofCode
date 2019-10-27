@@ -125,6 +125,14 @@
 <ul>
   <li>learnt how to add css into rails by using the bootstrap sass gem. (https://bitbucket.org/RGog/twitter-app/commits/6c1dac76e40137453a067ee061298d4428d8dd48) </li>
 </ul>
+<h4>Day26 :</h4>
+<ul>
+  <li>satrted working on Facial keypoint detection project </li>
+</ul>
+<h4>Day27 :</h4>
+<ul>
+  <li>Learnt about partials, asset pipeline of rails (asset directory, manifest files, preprocessor engine), nesting and variables of sass (https://bitbucket.org/RGog/twitter-app/commits/d840b5954111fb523ef3cb07454d9e2c4ab54d07) </li>
+</ul>
 
 
 
