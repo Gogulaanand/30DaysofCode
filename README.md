@@ -132,6 +132,7 @@
 <h4>Day27 :</h4>
 <ul>
   <li>Learnt about partials, asset pipeline of rails (asset directory, manifest files, preprocessor engine), nesting and variables of sass (https://bitbucket.org/RGog/twitter-app/commits/d840b5954111fb523ef3cb07454d9e2c4ab54d07) </li>
+  <li>Defined a rough CNN for the facial keypoint project. will be testing its performance tmrw and tweak according to the loss</li>
 </ul>
 
 
