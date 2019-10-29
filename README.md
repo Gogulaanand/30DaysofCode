@@ -137,7 +137,7 @@
 <h4>Day28 :</h4>
 <ul>
   <li>implemented the URL mappings and the user model for the twitter app</li>
-<ul>
+</ul>
 <h4>Day 29 :</h4>
 <ul>
   <li>Continuing with the facial keypoint project.</li>
